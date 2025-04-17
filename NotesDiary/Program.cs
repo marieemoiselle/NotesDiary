@@ -191,6 +191,7 @@ class Program
     {
         Console.WriteLine("This has been your diary! :)");
         Pause();
+        Environment.Exit(0); // to exit the diary
     }
 
     static void Pause()

@@ -12,3 +12,4 @@ C:\Users\Fatima Marie Agdon\projects\NotesDiary\NotesDiary\obj\Debug\net8.0\refi
 C:\Users\Fatima Marie Agdon\projects\NotesDiary\NotesDiary\obj\Debug\net8.0\NotesDiary.pdb
 C:\Users\Fatima Marie Agdon\projects\NotesDiary\NotesDiary\obj\Debug\net8.0\NotesDiary.genruntimeconfig.cache
 C:\Users\Fatima Marie Agdon\projects\NotesDiary\NotesDiary\obj\Debug\net8.0\ref\NotesDiary.dll
+C:\Users\Fatima Marie Agdon\projects\NotesDiary\NotesDiary\obj\Debug\net8.0\NotesDiary.sourcelink.json
